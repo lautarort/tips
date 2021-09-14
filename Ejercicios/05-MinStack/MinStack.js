@@ -1,10 +1,8 @@
-class Node {
-  // Your code here:
-
+class Node{
+ 
 }
 
-class MinStack {
-  // Your code here:
+class Stack{
 
 }
 

@@ -29,3 +29,4 @@
 - [15-SpyOn](Ejercicios/15-SpyOn/)
 - [16-Curry](Ejercicios/16-Curry/)
 </div>
+# tips
