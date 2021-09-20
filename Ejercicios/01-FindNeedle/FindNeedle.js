@@ -12,7 +12,6 @@ function FindNeedle(haystack, needle) {
   
 };
 
-console.log(FindNeedle(redux, react-redux));
 module.exports = FindNeedle;
 
 // const findNeedle2 = (haystack, needle) => {
